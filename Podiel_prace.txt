@@ -1,6 +1,9 @@
 Podiel práce študentov na projekte:
 
-						Faza 1			|	    Faza2		 |		Faza3
-				  Dokum. | Program		|  Dokum. | Program	 |	Dokum. | Program
-Martin Grega		25%	 |	25%			|	30%	  |	 30%	 |	 20%   |    20%
-Šimon Zaťko			25%	 |	25%			|	20%	  |	 20%	 | 	 25%   |	35%
+			Martin Grega	Šimon Zaťko
+Faza 1 - program	25%		25%
+	- dokument	25%		25%
+Faza 2 - program	30%		20%
+	- dokument	30%		20%
+Faza 3 - program	20%		25%
+	- dokument	20%		35%
